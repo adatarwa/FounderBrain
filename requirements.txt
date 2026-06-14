@@ -1,0 +1,15 @@
+# Core
+anthropic>=0.34.0
+python-dotenv==1.0.0
+
+# Web app
+flask>=3.0.0
+requests>=2.31.0
+
+# Notion export
+# (requests already included above)
+
+# Google Docs export (optional)
+# google-auth>=2.0.0
+# google-auth-oauthlib>=1.0.0
+# google-api-python-client>=2.0.0
